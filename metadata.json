@@ -1,0 +1,6 @@
+{
+  "name": "Viper - Arcade Snake",
+  "description": "A high-performance arcade snake game featuring turn-buffered controls, procedural audio synthesis, game modes, combo multipliers, and particle feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
